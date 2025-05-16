@@ -1,0 +1,88 @@
+{ 
+    
+    "coinmarket": [
+        
+        {
+            "density": 2, "friction": 0, "bounce": 0, 
+            "filter": { "categoryBits": 1, "maskBits": 65535 },
+            "shape": [   1794, 221  ,  1863, 208  ,  1864, 319  ,  1794, 328  ]
+        }
+    ]
+    , 
+    "coingecko": [
+        
+        {
+            "density": 2, "friction": 0, "bounce": 0, 
+            "filter": { "categoryBits": 1, "maskBits": 65535 },
+            "shape": [   1865, 467  ,  1794, 469  ,  1794, 359  ,  1865, 351  ]
+        }
+    ]
+    , 
+    "youtube": [
+        
+        {
+            "density": 2, "friction": 0, "bounce": 0, 
+            
+            "shape": [   1794, 499  ,  1865, 496  ,  1866, 616  ,  1794, 614  ]
+        }
+    ]
+    , 
+    "telegram": [
+        
+        {
+            "density": 2, "friction": 0, "bounce": 0, 
+            "filter": { "categoryBits": 1, "maskBits": 65535 },
+            "shape": [   176, 98  ,  172, 299  ,  23, 287  ,  24, 73  ]
+        }
+    ]
+    , 
+    "x": [
+        
+        {
+            "density": 2, "friction": 0, "bounce": 0, 
+            "filter": { "categoryBits": 1, "maskBits": 65535 },
+            "shape": [   176, 337  ,  172, 539  ,  23, 539  ,  23, 327  ]
+        }
+    ]
+    , 
+    "dexscreener": [
+        
+        {
+            "density": 2, "friction": 0, "bounce": 0, 
+            "filter": { "categoryBits": 1, "maskBits": 65535 },
+            "shape": [   308, 1096  ,  294, 892  ,  602, 919  ,  608, 1151  ]
+        }
+    ]
+    , 
+    "dextools": [
+        
+        {
+            "density": 2, "friction": 0, "bounce": 0, 
+            "filter": { "categoryBits": 1, "maskBits": 65535 },
+            "shape": [   837, 1078  ,  833, 1320  ,  623.5, 1158  ,  622, 931  ]
+        }
+    ]
+    , 
+    "tv": [
+        
+        {
+            "density": 2, "friction": 0, "bounce": 0, 
+            "filter": { "categoryBits": 1, "maskBits": 65535 },
+            "shape": [   1787, 491  ,  1872, 488  ,  1872.5, 623  ,  1786.5, 621  ]
+        } ,
+        {
+            "density": 2, "friction": 0, "bounce": 0, 
+            "filter": { "categoryBits": 1, "maskBits": 65535 },
+            "shape": [   3762, 522  ,  3066, 537  ,  3032, 128  ,  3760, 41  ]
+        }
+    ]
+    , 
+    "buy": [
+        
+        {
+            "density": 2, "friction": 0, "bounce": 0, 
+            "filter": { "categoryBits": 1, "maskBits": 65535 },
+            "shape": [   787, 1877  ,  1161, 1702  ,  1261, 1855  ,  1264.7657470703125, 1986.8839111328125  ,  970.5882568359375, 2155.798319339752  ,  772, 2094  ]
+        }
+    ]
+}
