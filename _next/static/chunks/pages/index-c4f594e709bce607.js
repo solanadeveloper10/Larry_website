@@ -1176,7 +1176,7 @@
                 color: "rgba(75, 204, 0, 0.67)",
               },
               coinmarket: {
-                url: "https://coinmarketcap.com",
+                url: "https://coinmarketcap.com/",
                 jsonKey: "coinmarket",
                 color: "rgba(0, 0, 255, 0.67)",
               },
