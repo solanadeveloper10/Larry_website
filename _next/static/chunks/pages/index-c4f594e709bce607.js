@@ -1171,28 +1171,28 @@
                 color: "rgba(0, 136, 204, 0.67)",
               },
               coingecko: {
-                url: "#",
+                url: "https://www.coingecko.com",
                 jsonKey: "coingecko",
                 color: "rgba(75, 204, 0, 0.67)",
               },
               coinmarket: {
-                url: "#",
+                url: "https://coinmarketcap.com",
                 jsonKey: "coinmarket",
                 color: "rgba(0, 0, 255, 0.67)",
               },
 
               dexscreener: {
-                url: "https://dexscreener.com/solana/EENevTG5pncwpyH3WH5nPCJpRdcLBVZsfiSdr2Spump",
+                url: "https://dexscreener.com/solana/56kyr8nulecwqmv3tjod63srbddhvmrz9am5ewvrdjmb",
                 jsonKey: "dexscreener",
                 color: "rgba(0, 0, 0, 0.67)",
               },
               dextools: {
-                url: "https://www.dextools.io/app/en/solana/pair-explorer/9BwqVMmrsdGZ3WANeysaipuXjfyyoVbPsJrVUJXBBH52",
+                url: "https://www.dextools.io/app/en/solana/pair-explorer/56KyR8NuLeCWqmV3tjoD63SrBDDhVmrz9aM5ewVRdjmB?t=1747395020600",
                 jsonKey: "dextools",
                 color: "rgba(0, 200, 255, 0.67)",
               },
               buy: {
-                url: "https://raydium.io/swap/?inputMint=sol&outputMint=EENevTG5pncwpyH3WH5nPCJpRdcLBVZsfiSdr2Spump",
+                url: "https://swap.pump.fun/?input=So11111111111111111111111111111111111111112&output=T9jVwVLtdtpJrVK6SzHn2XuxuDafc5a5xxc9ygcpump",
                 jsonKey: "buy",
                 color: "rgba(255, 165, 0, 0.67)",
               },
